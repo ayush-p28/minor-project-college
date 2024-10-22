@@ -1,0 +1,11 @@
+.bg-team{
+    background-color:rgb(232,245,252);
+    border-radius: 8px;
+}
+
+
+@media (max-width: 767.98px) {
+    /* .TeamImages{
+        height:50%;
+    } */
+  }

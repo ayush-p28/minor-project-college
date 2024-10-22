@@ -1,0 +1,55 @@
+
+  .swiper-slide .alsoImages {
+    width: 10px;
+    height: 10px;
+    margin-right:10px;
+    object-fit: cover;
+  }
+  .swiper-slide .alsoLogoImages {
+    width: 35px;
+    height: 35px;
+    margin-right:5px;
+    object-fit: cover;
+  }
+  .alsoCharts {
+    width: 100%;
+    height: 100%;
+    margin-right:10px;
+    /* object-fit: cover; */
+  }
+
+  .alertHeading{
+    font-size: 16px;
+  }
+
+   .alsoSlide{
+    width: 22%;
+  }
+
+  .bg-hara{
+    background-color: rgb(220, 249, 240);
+  }
+  .symbolName{
+    font-size: 18px;
+  }
+  .textsymbolName{
+    font-size: 25px;
+  }
+  
+  
+  @media (max-width: 767.98px) {
+    .alsoSlide{
+      width: 40%;
+    }
+    .alsoCharts {
+      width: 100%;
+      height: 100%;
+      margin-right:10px;
+    }
+    .symbolName{
+      font-size: 10px;
+    }
+    .textsymbolName{
+      font-size: 14px;
+    }
+  }
